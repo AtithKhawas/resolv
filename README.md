@@ -52,28 +52,11 @@ Process a List of Domains
 
 ./resolv -v           # Display version information
 
-**Sample Output:**
-
-****************************************************
-*----------------------RESOLVER--------------------*
-*++++++++++++++++++++++++++++++++++++++++++++++++++*
-*++++++++++++++++++++++++++++++++++++++++++++++++++*
-*------------------------------Made by Atith Khawas*
-****************************************************
-example.com
-  IPv4: 93.184.216.34
-  IPv6: 2606:2800:220:1:248:1893:25c8:1946
-
-anotherdomain.com
-  IPv4: 192.168.1.1
-Mission Successful!
-
-
 **Installation:**
 
 Clone the repository:
 
-git clone https://github.com/username/RESOLV.git
+git clone https://github.com/AtithKhawas/resolv.git
 
 Navigate into the directory:
 
